@@ -1,0 +1,18 @@
+* {
+  user-select: none !important;
+}
+
+#html-body-header-h1 {
+  font-family: cursive !important;
+  font-weight: 900 !important;
+  font-size: 7mm !important;
+  display: inline-block !important;
+  border: 1mm solid rgb(0, 0, 0) !important;
+  padding: 1mm 8mm 1mm 8mm !important;
+  border-radius: 7mm !important;
+  color: rgb(244, 244, 151) !important;
+  background-color: rgb(80, 80, 80) !important;
+  margin: 3mm 0 13mm 14cm !important;
+  box-shadow: 0 0 10cm 1cm rgb(122, 244, 122) !important;
+  cursor: pointer !important;
+}

@@ -1,0 +1,17 @@
+#html-body-footer-address {
+  margin-left: 133mm !important;
+  margin-top: 4mm !important;
+}
+
+.AnchorCSS,
+.AnchorCSS:link,
+.AnchorCSS:visited,
+.AnchorCSS:hover,
+.AnchorCSS:active {
+  font-family: cursive !important;
+  font-weight: 900 !important;
+  font-size: 4mm !important;
+  cursor: pointer !important;
+  text-decoration: none !important;
+  color: rgb(100, 200, 100) !important;
+}
